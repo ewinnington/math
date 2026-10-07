@@ -1,0 +1,197 @@
+\begin{thebibliography}{10}
+
+\bibitem{AJKL84}
+S.~F. Assmann, D.~S. Johnson, D.~J. Kleitman, and J.~Y.-T. Leung.
+\newblock On a dual version of the one-dimensional bin packing problem.
+\newblock {\em Journal of Algorithms}, 5(4):502--525, 1984.
+\newblock \url{https://doi.org/10.1016/0196-6774(84)90004-X}.
+
+\bibitem{CJK01}
+J.~Csirik, D.~S. Johnson, and C.~Kenyon.
+\newblock Better approximation algorithms for bin covering.
+\newblock In {\em Proceedings of the Twelfth Annual ACM--SIAM Symposium on
+  Discrete Algorithms (SODA)}, pages 557--566. SIAM, 2001.
+\newblock \url{https://rgai.inf.u-szeged.hu/node/343}.
+
+\bibitem{DM26}
+M.~Delorme and J.~Martinovic.
+\newblock Extending the reflect flow formulation to variable-sized
+  one-dimensional cutting and skiving stock problems.
+\newblock {\em European Journal of Operational Research}, 334(1):51--69, 2026.
+\newblock \url{https://doi.org/10.1016/j.ejor.2026.04.027}.
+
+\bibitem{EIL13}
+L.~Epstein, C.~Imreh, and A.~Levin.
+\newblock Bin covering with cardinality constraints.
+\newblock {\em Discrete Applied Mathematics}, 161(13--14):1975--1987, 2013.
+\newblock \url{https://doi.org/10.1016/j.dam.2013.03.020}.
+
+\bibitem{GG61}
+P.~C. Gilmore and R.~E. Gomory.
+\newblock A linear programming approach to the cutting-stock problem.
+\newblock {\em Operations Research}, 9(6):849--859, 1961.
+\newblock \url{https://doi.org/10.1287/opre.9.6.849}.
+
+\bibitem{GR20}
+M.~X. Goemans and T.~Rothvoss.
+\newblock Polynomiality for bin packing with a constant number of item types.
+\newblock {\em Journal of the ACM}, 67(6):38:1--38:21, 2020.
+\newblock \url{https://doi.org/10.1145/3421750}; author version:
+  \url{https://arxiv.org/abs/1307.5108}.
+
+\bibitem{HR17}
+R.~Hoberg and T.~Rothvoss.
+\newblock A logarithmic additive integrality gap for bin packing.
+\newblock In {\em Proceedings of the Twenty-Eighth Annual ACM--SIAM Symposium
+  on Discrete Algorithms (SODA)}, pages 2616--2625. SIAM, 2017.
+\newblock \url{https://doi.org/10.1137/1.9781611974782.172}.
+
+\bibitem{JSO03}
+K.~Jansen and R.~Solis-Oba.
+\newblock An asymptotic fully polynomial time approximation scheme for bin
+  covering.
+\newblock {\em Theoretical Computer Science}, 306(1--3):543--551, 2003.
+\newblock \url{https://doi.org/10.1016/S0304-3975(03)00363-3}.
+
+\bibitem{JRZ97}
+M.~P. Johnson, C.~Rennick, and E.~J. Zak.
+\newblock Skiving addition to the cutting stock problem in the paper industry.
+\newblock {\em SIAM Review}, 39(3):472--483, 1997.
+\newblock \url{https://doi.org/10.1137/S003614459531004X}.
+
+\bibitem{KR19}
+V.~M. Kartak and A.~V. Ripatti.
+\newblock Large proper gaps in bin packing and dual bin packing problems.
+\newblock {\em Journal of Global Optimization}, 74:467--476, 2019.
+\newblock Published online 3 August 2018.
+  \url{https://doi.org/10.1007/s10898-018-0696-0}.
+
+\bibitem{KIMS23}
+L.~Korbacher, S.~Irnich, J.~Martinovic, and N.~Strasdat.
+\newblock Solving the skiving stock problem by a combination of stabilized
+  column generation and the {Reflect Arc-Flow} model.
+\newblock {\em Discrete Applied Mathematics}, 334:145--162, 2023.
+\newblock \url{https://doi.org/10.1016/j.dam.2023.04.003}.
+
+\bibitem{LLM95}
+M.~Labb{\'e}, G.~Laporte, and S.~Martello.
+\newblock An exact algorithm for the dual bin packing problem.
+\newblock {\em Operations Research Letters}, 17(1):9--18, 1995.
+\newblock \url{https://doi.org/10.1016/0167-6377(94)00060-J}.
+
+\bibitem{M22}
+J.~Martinovic.
+\newblock A note on the integrality gap of cutting and skiving stock instances:
+  {Why $4/3$ is an upper bound for the divisible case?}
+\newblock {\em 4OR}, 20:85--104, 2022.
+\newblock Published online 23 December 2020.
+  \url{https://doi.org/10.1007/s10288-020-00469-4}.
+
+\bibitem{MDISS20}
+J.~Martinovic, M.~Delorme, M.~Iori, G.~Scheithauer, and N.~Strasdat.
+\newblock Improved flow-based formulations for the skiving stock problem.
+\newblock {\em Computers \& Operations Research}, 113:104770, 2020.
+\newblock \url{https://doi.org/10.1016/j.cor.2019.104770}.
+
+\bibitem{MS16c}
+J.~Martinovic and G.~Scheithauer.
+\newblock Integer linear programming models for the skiving stock problem.
+\newblock {\em European Journal of Operational Research}, 251(2):356--368,
+  2016.
+\newblock \url{https://doi.org/10.1016/j.ejor.2015.11.005}.
+
+\bibitem{MS16a}
+J.~Martinovic and G.~Scheithauer.
+\newblock Integer rounding and modified integer rounding for the skiving stock
+  problem.
+\newblock {\em Discrete Optimization}, 21:118--130, 2016.
+\newblock \url{https://doi.org/10.1016/j.disopt.2016.06.004}.
+
+\bibitem{MS16b}
+J.~Martinovic and G.~Scheithauer.
+\newblock The proper relaxation and the proper gap of the skiving stock
+  problem.
+\newblock {\em Mathematical Methods of Operations Research}, 84(3):527--548,
+  2016.
+\newblock \url{https://doi.org/10.1007/s00186-016-0552-2}.
+
+\bibitem{MS17}
+J.~Martinovic and G.~Scheithauer.
+\newblock An upper bound of {$\Delta(E)<3/2$} for skiving stock instances of
+  the divisible case.
+\newblock {\em Discrete Applied Mathematics}, 229:161--167, 2017.
+\newblock \url{https://doi.org/10.1016/j.dam.2017.05.015}.
+
+\bibitem{MS18b}
+J.~Martinovic and G.~Scheithauer.
+\newblock Characterizing {IRDP}-instances of the skiving stock problem by means
+  of polyhedral theory.
+\newblock {\em Optimization}, 67(10):1797--1817, 2018.
+\newblock \url{https://doi.org/10.1080/02331934.2018.1494171}.
+
+\bibitem{MS18a}
+J.~Martinovic and G.~Scheithauer.
+\newblock Combinatorial investigations on the maximum gap for skiving stock
+  instances of the divisible case.
+\newblock {\em Annals of Operations Research}, 271:811--829, 2018.
+\newblock \url{https://doi.org/10.1007/s10479-018-2762-x}.
+
+\bibitem{MS18c}
+J.~Martinovic and G.~Scheithauer.
+\newblock The skiving stock problem and its relation to hypergraph matchings.
+\newblock {\em Discrete Optimization}, 29:77--102, 2018.
+\newblock \url{https://doi.org/10.1016/j.disopt.2018.03.001}.
+
+\bibitem{MS19}
+J.~Martinovic and G.~Scheithauer.
+\newblock New theoretical investigations on the gap of the skiving stock
+  problem.
+\newblock {\em Pesquisa Operacional}, 39(1):1--35, 2019.
+\newblock \url{https://doi.org/10.1590/0101-7438.2019.039.01.0001}.
+
+\bibitem{OAI26}
+{OpenAI}.
+\newblock Additive hardness and unbounded configuration gaps in bin packing.
+\newblock Manuscript dated 24 September 2026, \texttt{openai/math}, family 118,
+  2026.
+\newblock Repository commit \texttt{adc7f1241b42e322a6451854ab7e4b4c146bf78a}.
+  \href{https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026/Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026.pdf}{Pinned
+  manuscript and accompanying sources}. Accessed 7 October 2026.
+
+\bibitem{OAILean26}
+{OpenAI}.
+\newblock Bin packing and unbounded configuration-{LP} gaps: {Lean} scope and
+  comparator files.
+\newblock Source repository, \texttt{openai/math}, Lean family 118, 2026.
+\newblock Same pinned commit as~\cite{OAI26}.
+  \href{https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/docs/118.md}{Scope};
+  \href{https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/ComparatorChallenges/BinPackingGap.lean}{challenge};
+  \href{https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/ComparatorChallenges/BinPackingGap.json}{comparator
+  configuration};
+  \href{https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Computability/BinPacking/Main.lean}{solution
+  entry point}. Accessed 7 October 2026.
+
+\bibitem{PD06}
+M.~Peeters and Z.~Degraeve.
+\newblock Branch-and-price algorithms for the dual bin packing and maximum
+  cardinality bin packing problem.
+\newblock {\em European Journal of Operational Research}, 170(2):416--439,
+  2006.
+\newblock \url{https://doi.org/10.1016/j.ejor.2004.06.034}.
+
+\bibitem{ST95}
+G.~Scheithauer and J.~Terno.
+\newblock The modified integer round-up property of the one-dimensional cutting
+  stock problem.
+\newblock {\em European Journal of Operational Research}, 84(3):562--571, 1995.
+\newblock \url{https://doi.org/10.1016/0377-2217(95)00022-I}.
+
+\bibitem{Zak03}
+E.~J. Zak.
+\newblock The skiving stock problem as a counterpart of the cutting stock
+  problem.
+\newblock {\em International Transactions in Operational Research},
+  10(6):637--650, 2003.
+\newblock \url{https://doi.org/10.1111/1475-3995.00433}.
+
+\end{thebibliography}
