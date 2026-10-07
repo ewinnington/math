@@ -1,4 +1,4 @@
-# OpenAI Math
+# Math proofs
 
 Based on OpenAI results in Math, it is possible to search for and find dependent conjectures that can now be closed. These results hold if the underlying [OpenAI Math](https://github.com/openai/math) claim hold.
 
